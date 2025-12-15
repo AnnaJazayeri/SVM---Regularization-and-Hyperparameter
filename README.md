@@ -1,1 +1,1 @@
-# SVM---Regularization-and-Hyperparameter
+# SVM---Regularization and Hyperparameter
